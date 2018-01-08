@@ -17,18 +17,19 @@
 
 
          // 5) Selection box to check out 
-    
+// var APIKEY = "502bd9cf2c4c75d6110689001b2a61a2";
+// var origin = sessionStorage.getItem("origin");
+  //giving variables to items stored in the session storage to use in the URL  
+  // var WeatherURL = "http://api.openweathermap.org/data/2.5/weather?q=";
+  
    
 // This is the Ajax call that gets the data from the arline APIs
 var apiKey = "r8UtCmLa";
-// var APIKEY = "502bd9cf2c4c75d6110689001b2a61a2";
-// var origin = sessionStorage.getItem("origin");
 // //Goal was to get live routes and flights, unfortunately only way to get that is to pay for an api called skyscanner.
-var queryURL = "http://free.rome2rio.com/api/1.4/json/Search?key=" + apiKey + "&oName=" + origin;
-// var WeatherURL = "http://api.openweathermap.org/data/2.5/weather?q=";
+var queryURL = "https://free.rome2rio.com/api/1.4/json/Search?key=" + apiKey + "&oName=" + origin;
 
   $(document).ready(function() {
-    //giving variables to items stored in the session storage to use in the URL
+  
     var origin = sessionStorage.getItem("origin");
     var location = sessionStorage.getItem("city");
     //accessing the the information 
