@@ -7,4 +7,4 @@ users with suitable humanitarian volunteer opportunities across the world.
 
 ![Alt text](https://raw.githubusercontent.com/dipisha03/TheBareFootTravelers/master/assets/images/barefoot.png "barefoot")
 
-<b>Heroku link:</b> https://dipisha03.github.io/TheBareFootTravelers/
+<b>Link:</b> https://dipisha03.github.io/TheBareFootTravelers/
