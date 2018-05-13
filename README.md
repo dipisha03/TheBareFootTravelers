@@ -1,6 +1,6 @@
 # TheBareFootTravelers
 
-👣🌍 Collaborated with fellow developers to create an application using APIs that connects
+👣🌍 Collaborated with fellow developers to create an JavaScript application using APIs that connects
 users with suitable humanitarian volunteer opportunities across the world.
 
 <b>Technologies used:</b> HTML5 | CSS3 | JavaScript | AJAX | APIs
